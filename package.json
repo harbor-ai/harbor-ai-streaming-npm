@@ -1,7 +1,7 @@
 {
   "name": "@harbor-ai/harbor-ai-streaming-npm",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.0.2",
+  "description": "streaming api for node server to communicate with harbor ai exchange",
   "main": "index.js",
   "dependencies": {
     "@vital-ai/haley": "^0.0.7"
