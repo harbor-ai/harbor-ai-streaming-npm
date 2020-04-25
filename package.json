@@ -1,6 +1,6 @@
 {
-  "name": "@harbor-ai/streaming-npm",
-  "version": "1.0.0",
+  "name": "@harbor-ai/harbor-ai-streaming-npm",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/harbor-ai/harbor-ai-streaming-npm.git"
   },
-  "author": "",
+  "author": "hadfield",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/harbor-ai/harbor-ai-streaming-npm/issues"
