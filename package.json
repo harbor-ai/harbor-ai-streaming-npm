@@ -1,8 +1,11 @@
 {
-  "name": "@harbor-ai/streaming-npm",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@harbor-ai/harbor-ai-streaming-npm",
+  "version": "0.0.2",
+  "description": "streaming api for node server to communicate with harbor ai exchange",
   "main": "index.js",
+  "dependencies": {
+    "@vital-ai/haley": "^0.0.7"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/harbor-ai/harbor-ai-streaming-npm.git"
   },
-  "author": "",
+  "author": "hadfield",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/harbor-ai/harbor-ai-streaming-npm/issues"

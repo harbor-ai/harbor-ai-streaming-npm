@@ -1,3 +1,2 @@
-domain schema files go here
-============================
-
+domain schema files here
+=========================
